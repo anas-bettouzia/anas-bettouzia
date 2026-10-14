@@ -85,10 +85,39 @@ An AI-powered platform that automates the pre-migration audit of Jira Data Cente
 - Migration score, blocker detection and recommendations, exported as bilingual PDF/JSON reports
 - 13 Docker containers, Bamboo CI/CD, SonarQube quality gate, Prometheus and Grafana monitoring
 
+[View the code](https://github.com/anas-bettouzia/jira-migration-project---AI-ANALYZER---PFE-PROJECT) · [Read the case study](https://anas-bettouzia.vercel.app/#work)
+
 ---
 
-### Most Used Languages
+### 💼 Experience
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-bettouzia&layout=compact&theme=transparent&hide_border=false" alt="Most used languages"/>
+| Period | Role | Company |
+|---|---|---|
+| **2026** | Full-Stack & AI Engineer, final-year internship | Spectrum Groupe |
+| **Jul – Aug 2025** | Software Engineering Intern | OneTech |
+| **Jul – Aug 2023** | Full-Stack Web Developer Intern | — |
+
+---
+
+### 🗂️ More Projects
+
+| Domain | Project | What it does | Stack |
+|---|---|---|---|
+| 🤖 **AI** | [Smart Resume Extraction](https://github.com/anas-bettouzia/CvExtractorProject) | Extracts and analyzes resume data from PDF, DOCX and Excel, and auto-fills forms | Python · Angular · MongoDB · Keycloak |
+| 🤖 **AI** | [Semantic Freelance Platform](https://github.com/codezella-hub/Freelance_semantic_app) | Matches freelancers and clients through semantic search and recommendations | NLP · Semantic search · ML |
+| 🌐 **Full-stack** | [Emergency Management System](https://github.com/Mahdi-Kalfat/EmergencySystem4Twin5) | Coordinates emergency situations with real-time updates | React · Node.js · MongoDB · WebSocket |
+| 🌐 **Full-stack** | [E-commerce Platform](https://github.com/Mahdi-Kalfat/PiDev3A35-CodeCrafters) | Desktop store: catalog, cart, orders and user management | Java · JavaFX · MySQL · Hibernate |
+| ⚙️ **DevOps** | [CI/CD Pipeline](https://github.com/chaimaguezmir/Devops-G6) | Automated Jenkins pipeline: tests, code analysis, Docker deployment, monitoring | Jenkins · Docker · SonarQube · Nexus · Prometheus |
+
+<p align="center">
+  <a href="https://anas-bettouzia.vercel.app/#projects"><b>→ See all projects with details on my portfolio</b></a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anas-bettouzia&show_icons=true&hide_border=true&bg_color=0A1222&title_color=F4B740&icon_color=F4B740&text_color=E9EDF5" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-bettouzia&layout=compact&hide_border=true&bg_color=0A1222&title_color=F4B740&text_color=E9EDF5" alt="Top languages"/>
 </p>
