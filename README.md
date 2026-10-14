@@ -2,8 +2,8 @@
 <h3 align="center">Full-Stack Software Engineer | AI &amp; Cloud</h3>
 
 <p align="center">
+  <a href="https://anas-bettouzia.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F4B740?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/anas-bettouzia-922716312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:abettouzia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -11,13 +11,13 @@
 
 ### About Me
 
-Software engineer from ESPRIT (Highest Honors), focused on full-stack development, generative AI (LLMs, RAG) and DevOps.
+Full-stack software engineer specializing in AI and cloud. I build applications that integrate generative AI (LLMs, RAG, vector databases) and deliver them through containerized deployments with CI/CD and monitoring.
 
-- 🔭 I'm currently working on an **AI-powered audit platform for Jira Data Center to Cloud migrations** (React, Flask, RAG, LLMs)
-- 👯 I'm looking to collaborate on full-stack and AI projects: LLM apps, RAG pipelines and DevOps tooling
-- 🌱 I'm currently learning cloud architecture on AWS
+- 🔭 Built an **AI-powered audit platform for Jira Data Center to Cloud migrations** (React, Flask, RAG, LLMs) — [see the case study](https://anas-bettouzia.vercel.app/#work)
+- 👯 Looking to collaborate on full-stack and AI projects: LLM apps, RAG pipelines and DevOps tooling
+- 🌱 Currently deepening cloud architecture on AWS
 - 💬 Ask me about React, Python/Flask, LLM integration, Docker and CI/CD
-- 💼 Open to Full-Stack, Cloud and AI Software Engineer roles
+- 💼 Open to Full-Stack, AI and Cloud Software Engineer roles, in Tunisia and internationally
 
 ---
 
