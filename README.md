@@ -85,8 +85,7 @@ An AI-powered platform that automates the pre-migration audit of Jira Data Cente
 - Migration score, blocker detection and recommendations, exported as bilingual PDF/JSON reports
 - 13 Docker containers, Bamboo CI/CD, SonarQube quality gate, Prometheus and Grafana monitoring
 
-[View the code](https://github.com/anas-bettouzia/jira-migration-project---AI-ANALYZER---PFE-PROJECT) · [Read the case study](https://anas-bettouzia.vercel.app/#work)
-
+---
 ---
 
 ### 💼 Experience
@@ -120,4 +119,10 @@ An AI-powered platform that automates the pre-migration audit of Jira Data Cente
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anas-bettouzia&show_icons=true&hide_border=true&bg_color=0A1222&title_color=F4B740&icon_color=F4B740&text_color=E9EDF5" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-bettouzia&layout=compact&hide_border=true&bg_color=0A1222&title_color=F4B740&text_color=E9EDF5" alt="Top languages"/>
+</p>
+
+### Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-bettouzia&layout=compact&theme=transparent&hide_border=false" alt="Most used languages"/>
 </p>
